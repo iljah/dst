@@ -1,0 +1,3 @@
+[submodule "ndgrid"]
+	path = ndgrid
+	url = https://github.com/iljah/ndgrid.git
